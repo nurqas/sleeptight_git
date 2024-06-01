@@ -1,5 +1,3 @@
-# sleeptight
-
 1.	Open your XAMPP Control Panel and start Apache and MySQL.
 2.	Copy the this source code folder and paste it into the XAMPP's "htdocs" directory.
 3.	Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
