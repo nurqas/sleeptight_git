@@ -1,5 +1,5 @@
 1.	Open your XAMPP Control Panel and start Apache and MySQL.
-2.	Download the zip version of this source code folder and paste it into the XAMPP's "htdocs" directory.
+2.	Download the zip version of this source code folder (click on the green button "code" and then "Download zip") and paste it into the XAMPP's "htdocs" directory.
 3.	Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 4.	Create a new database naming edoc.
 5.	Import the provided SQL file. The file is known as SQL_Database_edoc.sql located inside the source code root folder.
