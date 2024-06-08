@@ -1,0 +1,20 @@
+{
+  "Sheet1": [
+    {
+      "Person ID": 1,
+      "Gender": "Male",
+      "Age": 27,
+      "Occupation": "Sales Representative",
+      "Sleep Duration": 6.1,
+      "Quality of Sleep": 6.0,
+      "Physical Activity Level": 42,
+      "Stress Level": 6,
+      "BMI Category": "Obese",
+      "Heart Rate": 77,
+      "Daily Steps": 4200,
+      "Sleep Disorder": 1,
+      "BloodPressure_Upper_Value": 126,
+      "BloodPressure_Lower_Value": 83
+    }
+  ]
+}
