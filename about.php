@@ -58,6 +58,35 @@
     <!-- end header section -->
   </div>
 
+  <section class="about_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-md-6">
+          <div class="detail-box">
+            <h2>
+              About us
+            </h2>
+            <p>
+              Delve into the transformative power of sleep apnea monitoring. Gain insights into your sleep cycles, identify potential apnea risks, and entrust your data to our secure system.
+
+Embrace the journey of understanding your sleep patterns. Let our platform guide you through the realm of restful nights and rejuvenated mornings.
+
+Empower yourself with knowledge and peace of mind. With us, tracking sleep apnea becomes intuitive, insightful, and secure.
+            </p>
+            
+          </div>
+        </div>
+        <div class="col-lg-7 col-md-6">
+          <div class="img-box">
+            <img src="images/about-img.jpg" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end about section -->
+
   <!-- service section -->
 
   <section class="service_section layout_padding">
@@ -116,6 +145,63 @@
      
     </div>
   </section>
+
+  <!-- info section -->
+<section class="info_section ">
+  <div class="container">
+    <h4>
+      Get In Touch
+    </h4>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="info_items">
+          <div class="row">
+            <div class="col-md-4">
+              <a href="">
+                <div class="item ">
+                  <div class="img-box ">
+                    <i class="fa fa-map-marker" aria-hidden="true"></i>
+                  </div>
+                  <p>
+                    Pfarrkirchen 
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="">
+                <div class="item ">
+                  <div class="img-box ">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                  </div>
+                  <p>
+                    +49 1234567890
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="">
+                <div class="item ">
+                  <div class="img-box">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                  </div>
+                  <p>
+                    sleeptight@gmail.com
+                  </p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- end info_section -->
 
 
 
